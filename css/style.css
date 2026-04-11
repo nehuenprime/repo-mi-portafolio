@@ -100,3 +100,11 @@ button:hover{
   height: 200px;        /* todas iguales */
   object-fit: cover;    /* recorta sin deformar */
 }
+
+
+.main-card{
+    background-color: #CACFE3;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    margin: 1.5rem;
+}
