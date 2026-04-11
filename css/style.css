@@ -93,3 +93,10 @@ ul{
 button:hover{
     background-color: #91959E;
 }
+
+/* main */
+
+.card-img-top {
+  height: 200px;        /* todas iguales */
+  object-fit: cover;    /* recorta sin deformar */
+}
