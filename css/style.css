@@ -10,6 +10,10 @@ ul{
     list-style: none;
 }
 
+.agrandando-nombre:hover{
+    font-size: 10px;
+}
+
 .text-header{
     margin-top: 25px;
 }
@@ -97,8 +101,8 @@ button:hover{
 /* main */
 
 .card-img-top {
-  height: 200px;        /* todas iguales */
-  object-fit: cover;    /* recorta sin deformar */
+    height: 200px;       
+    object-fit: cover;    
 }
 
 
