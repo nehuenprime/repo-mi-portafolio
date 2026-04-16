@@ -6,12 +6,13 @@ body{
     overflow-x: hidden;
 }
 
+
 ul{
     list-style: none;
 }
 
 .agrandando-nombre:hover{
-    font-size: 10px;
+    transform: scale(1.05);
 }
 
 .text-header{
@@ -114,8 +115,20 @@ button:hover{
 }
 
 
+.card-text-proyect{
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+}
 
+.agrandando:hover{
+    transform: scale(1.05);
+    transition: 0.5s;
+}
 
+.sacar-sub{
+    text-decoration: none;
+}
 
 @media only screen and (min-width: 600px){
     .index-header-superior nav ul{
